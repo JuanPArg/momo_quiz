@@ -1,0 +1,123 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(to left, rgb(217, 14, 14), white, rgb(29, 210, 29));
+    padding: 2;
+    margin: 5;
+ }
+
+ header{
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 10px 0;
+ }
+ .container{
+    max-width: 700px;
+    margin: auto;
+    padding: 40px;
+ }
+ section{
+    border: 2px solid rgb(38, 129, 129);
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px 0;
+ }
+ label{
+    display: block;
+    padding: 7px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px dashed #dd0a0a;
+    margin-bottom: 3px;
+ }
+ label:hover{
+    background: #0dded7;
+ }
+button{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+
+    background-color: #0f7696;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+button:hover{
+    background: #0dded7 ;
+    color:  #000;
+}
+h2{
+    text-align: center;
+}
+#resultado{
+    font-size: 30px;
+    color: darkred;
+}
+.imagen{
+   float: right;
+   margin: 0 0 100px 100px;
+   margin-right: -400px;
+   max-width: 50%;
+   height: auto;
+
+}
+
+.imagen2{
+   float: left;
+   margin: 0 0 100px 100px;
+   margin-left: -400px;
+   max-width: 50%;
+   height: auto;
+}
+.imagen3{
+   float: inherit;
+   margin: 0 0 100px 100px;
+   max-width: 50%;
+   height: auto;
+  margin-left: 40%;
+}
+.u2{
+   float: right;
+   margin-right: -400px;
+   max-width: 50%;
+   margin-top: -178px;
+}
+.u3{
+   float: right;
+   margin-right: -410px;
+   max-width: 50%;
+   margin-top: 15px;
+}
+.u4{
+   float: right;
+   margin-right: -410px;
+   max-width: 50%;
+}
+.u5{
+   float: left;
+   margin-left: -400px ;
+   margin-top: 30px;
+}
+.u6{
+   text-align: center;
+}
+.u7{
+   float: left;
+   margin-left: -450px ;
+   margin-top: 450px;
+
+}
+.imagen4{
+   float: left;
+   margin: 0 0 100px 100px;
+   margin-left: -480px;
+   max-width: 50%;
+   height: auto;
+}
+.u9{
+   float: left;
+   margin-left: -400px ;
+   margin-top: 220px;
+}
